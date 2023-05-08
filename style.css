@@ -1,0 +1,21 @@
+.wrapper{
+    background-color: rgb(77, 77, 103);
+}
+.card{
+    background-color: rgb(31, 31, 50);
+    color: white;
+}
+.row{
+    width: 70%;
+    margin: 0 auto;
+}
+.header{
+    background-color: rgb(31, 31, 50);
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    height: 50px;
+    padding-left: 5rem;
+}
